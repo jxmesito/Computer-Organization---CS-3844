@@ -1,0 +1,2 @@
+C:\Users\j\Desktop\Fall2020\CompOrg\Homeworks\HW2\hw2Project\Debug\hw2Project.exe
+C:\Users\j\Desktop\Fall2020\CompOrg\Homeworks\HW2\hw2Project\Debug\hw2Project.pdb
